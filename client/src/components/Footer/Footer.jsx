@@ -25,19 +25,13 @@ const Footer = () => {
         <div className="item">
           <h1>About</h1>
           <span>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
-            accusantium repellat nihil iste, aliquid sed commodi libero facilis
-            et, recusandae sequi adipisci temporibus officiis. Delectus culpa
-            totam ad ex vero?
+            We provide great quality products at affordable prices.
           </span>
         </div>
         <div className="item">
           <h1>Contact</h1>
           <span>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
-            accusantium repellat nihil iste, aliquid sed commodi libero facilis
-            et, recusandae sequi adipisci temporibus officiis. Delectus culpa
-            totam ad ex vero?
+            Available everyday at 9am to 9pm. Feel free to contact.
           </span>
         </div>
       </div>

@@ -14,7 +14,7 @@ const Categories = () => {
       <div className="item1 item">
         <img src={sale} alt="sale" />
         <button>
-          <Link to="/products/1" className="link">
+          <Link to="/products/6" className="link">
             Sale
           </Link>
         </button>
@@ -22,7 +22,7 @@ const Categories = () => {
       <div className="item2 item">
         <img src={season} alt="season" />
         <button>
-          <Link to="/products/3" className="link">
+          <Link to="/products/5" className="link">
             New Season
           </Link>
         </button>
@@ -38,7 +38,7 @@ const Categories = () => {
       <div className="item4 item">
         <img src={men} alt="men" />
         <button>
-          <Link to="/products/4" className="link">
+          <Link to="/products/1" className="link">
             Men
           </Link>
         </button>
@@ -46,7 +46,7 @@ const Categories = () => {
       <div className="item5 item">
         <img src={accessories} alt="accessories" />
         <button>
-          <Link to="/products/5" className="link">
+          <Link to="/products/4" className="link">
             Accessories
           </Link>
         </button>
@@ -54,7 +54,7 @@ const Categories = () => {
       <div className="item6 item">
         <img src={footwear} alt="footwear" />
         <button>
-          <Link to="/products/6" className="link">
+          <Link to="/products/3" className="link">
             Footwear
           </Link>
         </button>
