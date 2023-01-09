@@ -139,7 +139,7 @@ const Products = () => {
           <div className="resetFilters" onClick={resetFilters}><span>Reset Filters</span></div>
         </div>
         <div className="right">
-          <h1>50 To 90 Percent Off</h1>
+          <h1>Flat 30 To 60% Off</h1>
           <div>
             {mobile && (
               <FilterAltIcon
